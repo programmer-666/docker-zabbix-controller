@@ -1,2 +1,2 @@
-# docker-zabbix-controller
-Installing and backing up Zabbix as a container on Docker.
+# Docker Zabbix Controller
+Welcome. The installation steps are in the `main` branch. For backup and restore operations, see the `backup-control` branch.
